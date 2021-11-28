@@ -4,4 +4,5 @@ public class Development {
     String currentProject;
     String projectDeadline;
     String reporting;
+    String hizz;
 }
